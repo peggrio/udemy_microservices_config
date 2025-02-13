@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Peggy bank cards related to local APIs"
+  contactDetails:
+    name: "PeizhenLiao - default developer"
+    email: "peizhenliao23@gmail.com"
+  onCallSupport:
+    -(123)456-7890

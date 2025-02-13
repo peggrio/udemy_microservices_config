@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcom to Peggy bank cards related to QA APIs"
+  contactDetails:
+    name: "PeizhenLiao - QA lead"
+    email: "peizhenliao23@gmail.com"
+  onCallSupport:
+    -(123)456-7890
