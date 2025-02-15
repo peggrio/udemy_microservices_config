@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "buibuibui! Welcome to Peggy bank cards related to docker APIs"
+  message: "kangkang! Welcome to Peggy bank cards related to docker APIs"
   contactDetails:
     name: "PeizhenLiao - prod owner"
     email: "peizhenliao23@gmail.com"
