@@ -2,9 +2,8 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to Peggy bank loans related to local APIs"
+  message: "kk! Welcome to Peggy bank loans related to local APIs"
   contactDetails:
     name: "PeizhenLiao - default developer"
     email: "peizhenliao23@gmail.com"
-  onCallSupport:
-    -(123)456-7890
+  onCallSupport: -(123)456-7890
