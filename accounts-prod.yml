@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "gege! Welcome to Peggy bank accounts related to lulu APIs"
+  message: "didi! Welcome to Peggy bank accounts related to lulu APIs"
   contactDetails:
     name: "PeizhenLiao - prod owner"
     email: "{cipher}d2d7c1109fcbbd2c1da2742aee8f8ba19f26e1a16cd535ccb89b7ec9a34712f1d4802d189d479e82f3ee7a4ec6f5a553"
